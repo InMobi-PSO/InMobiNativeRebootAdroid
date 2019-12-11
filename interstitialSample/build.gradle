@@ -39,7 +39,7 @@ android {
 }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile fileTree(include: ['*.jar','*.aar'], dir: 'libs')
     //    compile fileTree(include: ['*.jar'], dir: 'libs')
     compile "com.android.support:design:${androidSupportLibVersion}"
     compile "com.android.support:appcompat-v7:${androidSupportLibVersion}"
@@ -47,5 +47,5 @@ dependencies {
     compile "com.google.android.gms:play-services:${gmsVersion}"
     compile 'com.android.support:multidex:1.0.1'
     compile 'com.squareup.picasso:picasso:2.5.2'
-    compile files('libs/InMobi-7.2.8.jar')
+    implementation files('libs/InMobi-7.4.1-last.jar')
 }

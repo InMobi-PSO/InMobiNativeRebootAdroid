@@ -40,7 +40,7 @@ allprojects {
     } }
 
 dependencies {
-    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile fileTree(include: ['*.jar', '*.aar'], dir: 'libs')
     compile "com.android.support:design:${androidSupportLibVersion}"
     compile "com.android.support:appcompat-v7:${androidSupportLibVersion}"
     compile "com.android.support:support-annotations:${androidSupportLibVersion}"
@@ -51,6 +51,5 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.android.support:support-v4:24.2.1'
     compile 'com.zhy:okhttputils:2.0.0'
-    //    compile files('libs/InMobi-7.2.7.jar')
-    compile files('libs/InMobi-7.2.8.jar')
+    implementation files('libs/InMobi-7.4.1-last.jar')
 }

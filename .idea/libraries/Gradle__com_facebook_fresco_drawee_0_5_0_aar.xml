@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:drawee:0.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/190d21b49c041851d0e807d00110618c/drawee-0.5.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/190d21b49c041851d0e807d00110618c/drawee-0.5.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/0.5.0/f40c9c38668da01f95ccd611ef2ba3ab2c4d93dc/drawee-0.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.fresco/drawee/0.5.0/f9b9a65acb7088e9510cdb18651114685d98944b/drawee-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
