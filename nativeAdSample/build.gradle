@@ -51,5 +51,5 @@ dependencies {
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.android.support:support-v4:24.2.1'
     compile 'com.zhy:okhttputils:2.0.0'
-    implementation files('libs/InMobi-7.4.1-last.jar')
+    implementation files('libs/InMobi-7.4.2.jar')
 }

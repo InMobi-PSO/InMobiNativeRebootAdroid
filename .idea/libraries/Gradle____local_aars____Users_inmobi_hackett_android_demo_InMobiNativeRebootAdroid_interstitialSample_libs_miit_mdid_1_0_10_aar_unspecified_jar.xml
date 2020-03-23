@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/libs/miit_mdid_1.0.10.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04468d73533a419fb352f440695e4fef/miit_mdid_1.0.10/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/04468d73533a419fb352f440695e4fef/miit_mdid_1.0.10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

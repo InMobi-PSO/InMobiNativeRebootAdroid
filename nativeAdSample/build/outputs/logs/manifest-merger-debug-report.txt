@@ -1,0 +1,316 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:1:1-10:12
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f84a5824b18956c600bdc6b6ce8055dd/recyclerview-v7-24.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/2d56d0ab7f4889b55096b080d8ec8487/cardview-v7-24.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:2:1-19:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+	package
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:6:5-67
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:6:5-67
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:6:5-67
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:7:5-79
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:4:5-79
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:13:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:14:5-73
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:15:5-81
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:12:5-81
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:16:5-75
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:5:5-75
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:19:22-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:20:5-68
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:20:22-65
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:21:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:22:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.PHONE_STATE_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:24:5-76
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:24:22-73
+application
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:28:5-113:19
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/2d56d0ab7f4889b55096b080d8ec8487/cardview-v7-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/2d56d0ab7f4889b55096b080d8ec8487/cardview-v7-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:14:5-17:19
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:14:5-17:19
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:31:9-38
+	android:allowBackup
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:33:9-40
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:30:9-50
+activity#com.inmobi.nativead.sample.NativeAdsActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:34:9-49:20
+	android:screenOrientation
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:37:13-45
+	tools:ignore
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:40:13-43
+	android:configChanges
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:36:13-115
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:39:13-58
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:35:13-46
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:50:9-56:46
+	android:hardwareAccelerated
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:53:13-47
+	android:resizeableActivity
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:54:13-47
+	tools:ignore
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:56:13-43
+	android:configChanges
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:52:13-115
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:55:13-60
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:51:13-65
+service#com.inmobi.ads.ApkDownloader$ApkDownloadService
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:58:9-60:37
+	android:enabled
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:60:13-35
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:59:13-75
+activity#com.inmobi.nativead.sample.SplashFullscreenActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:66:9-76:20
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:69:13-69
+	android:configChanges
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:68:13-74
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:70:13-51
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:67:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:71:13-75:29
+action#android.intent.action.MAIN
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:74:27-74
+activity#com.inmobi.nativead.sample.PreRollActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:77:9-84:20
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:80:13-60
+	android:configChanges
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:79:13-87
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:82:13-51
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:78:13-44
+service#lockscreen.utils.LockscreenService
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:87:9-88:19
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:87:18-67
+service#lockscreen.utils.LockWindowAccessibilityService
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:90:9-98:19
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:92:13-45
+	android:permission
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:93:13-79
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:91:13-75
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:94:13-96:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:95:17-92
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:95:25-89
+meta-data#android.accessibilityservice
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:97:13-114
+	android:resource
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:97:68-112
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:97:24-67
+activity#lockscreen.LockScreenActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:100:9-103:50
+	android:launchMode
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:103:13-48
+	android:showOnLockScreen
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:101:13-57
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:105:9-111:64
+	android:grantUriPermissions
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:108:13-47
+	android:authorities
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:106:13-74
+	android:exported
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:107:13-37
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:105:19-73
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:109:13-111:52
+	android:resource
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:111:17-49
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:110:17-67
+uses-sdk
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f84a5824b18956c600bdc6b6ce8055dd/recyclerview-v7-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f84a5824b18956c600bdc6b6ce8055dd/recyclerview-v7-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/2d56d0ab7f4889b55096b080d8ec8487/cardview-v7-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/2d56d0ab7f4889b55096b080d8ec8487/cardview-v7-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.2] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:okhttputils:2.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/772aca4233f8396459960722b640960f/okhttputils-2.0.0/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/nativeAdSample/src/main/AndroidManifest.xml:2:1-115:12 reason: com.bun.miitmdid requested WRITE_EXTERNAL_STORAGE

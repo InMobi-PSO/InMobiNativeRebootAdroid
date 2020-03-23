@@ -1,0 +1,243 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.inmobi.banner.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="24" />
+9-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+11-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:5:5-83
+11-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:5:22-80
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:6:5-66
+12-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:6:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:7:5-78
+13-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:8:5-78
+14-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:9:5-75
+15-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:9:22-73
+16    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+16-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:10:5-75
+16-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:10:22-73
+17    <uses-permission android:name="android.permission.VIBRATE" />
+17-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:11:5-65
+17-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:11:22-63
+18    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:12:5-75
+18-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:12:22-72
+19    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+19-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:13:5-93
+19-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:13:22-91
+20    <uses-permission android:name="android.permission.READ_CALENDAR" />
+20-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:14:5-71
+20-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:14:22-69
+21    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+21-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:15:5-72
+21-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:15:22-70
+22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+22-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:16:5-80
+22-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:16:22-78
+23    <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS" />
+23-->[msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:8:5-76
+23-->[msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:8:22-73
+24    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- Permissions required for GCM -->
+25    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+25-->[com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:21:5-82
+25-->[com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:21:22-79
+26
+27    <uses-feature
+27-->[com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:22:5-24:33
+28        android:glEsVersion="0x00020000"
+28-->[com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:23:8-40
+29        android:required="true" /> <!-- Optional permission for App measurement to run. -->
+29-->[com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:24:8-31
+30    <uses-permission android:name="android.permission.WAKE_LOCK" />
+30-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:24:5-67
+30-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:24:22-65
+31
+32    <application
+32-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:18:5-63:19
+33        android:name="android.support.multidex.MultiDexApplication"
+33-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:23:13-72
+34        android:allowBackup="true"
+34-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:20:13-39
+35        android:debuggable="true"
+36        android:hardwareAccelerated="true"
+36-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:19:9-43
+37        android:icon="@drawable/icon"
+37-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:21:13-42
+38        android:label="@string/app_name"
+38-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:22:13-45
+39        android:testOnly="true"
+40        android:theme="@style/AppTheme" >
+40-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:24:13-44
+41        <activity
+41-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:26:9-33:20
+42            android:name="com.inmobi.banner.sample.BannerAdsActivity"
+42-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:27:17-50
+43            android:label="@string/app_name" >
+43-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:28:17-49
+44            <intent-filter>
+44-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:29:13-32:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:30:17-68
+45-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:30:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:31:17-76
+47-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:31:27-74
+48            </intent-filter>
+49        </activity>
+50        <activity
+50-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:35:9-39:20
+51            android:name="com.inmobi.banner.sample.BannerXmlActivity"
+51-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:36:17-50
+52            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize|screenLayout"
+52-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:37:17-119
+53            android:label="@string/app_name" >
+53-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:38:17-49
+54        </activity>
+55        <activity
+55-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:41:9-47:49
+56            android:name="com.inmobi.rendering.InMobiAdActivity"
+56-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:42:17-69
+57            android:configChanges="keyboardHidden|orientation|keyboard|smallestScreenSize|screenSize|screenLayout"
+57-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:43:17-119
+58            android:hardwareAccelerated="true"
+58-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:45:17-51
+59            android:resizeableActivity="false"
+59-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:44:17-51
+60            android:theme="@android:style/Theme.NoTitleBar" />
+60-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:46:17-64
+61
+62        <service
+62-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:49:9-51:37
+63            android:name="com.inmobi.ads.ApkDownloader$ApkDownloadService"
+63-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:50:13-75
+64            android:enabled="true" />
+64-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:51:13-35
+65
+66        <meta-data
+66-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:54:9-56:72
+67            android:name="com.google.android.gms.version"
+67-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:55:17-62
+68            android:value="@integer/google_play_services_version" />
+68-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:56:17-70
+69
+70        <provider
+70-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:58:9-62:20
+71            android:name="android.support.v4.content.FileProvider"
+71-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:58:19-73
+72            android:authorities="com.inmobi.banner.sample.fileprovider"
+72-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:58:74-133
+73            android:exported="false"
+73-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:58:134-158
+74            android:grantUriPermissions="true" >
+74-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:58:159-193
+75            <meta-data
+75-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:59:13-61:51
+76                android:name="android.support.FILE_PROVIDER_PATHS"
+76-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:60:17-67
+77                android:resource="@xml/provider" />
+77-->/Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/src/main/AndroidManifest.xml:61:17-49
+78        </provider>
+79        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+80        <activity
+80-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:26:9-29:64
+81            android:name="com.google.android.gms.ads.AdActivity"
+81-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:27:13-65
+82            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+82-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:28:13-122
+83            android:theme="@android:style/Theme.Translucent" />
+83-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:29:13-61
+84        <activity
+84-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:30:9-31:52
+85            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+85-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:30:19-91
+86            android:theme="@style/Theme.IAPTheme" />
+86-->[com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:31:13-50
+87        <activity
+87-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:21:9-29:20
+88            android:name="com.google.android.gms.appinvite.PreviewActivity"
+88-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:22:17-48
+89            android:exported="true"
+89-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:23:17-40
+90            android:theme="@style/Theme.AppInvite.Preview" >
+90-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:24:17-63
+91            <intent-filter>
+91-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:25:13-28:29
+92                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+92-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:26:17-89
+92-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:26:25-87
+93
+94                <category android:name="android.intent.category.DEFAULT" />
+94-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:27:17-75
+94-->[com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:27:27-73
+95            </intent-filter>
+96        </activity>
+97        <activity
+97-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:21:9-24:46
+98            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+98-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:21:19-72
+99            android:excludeFromRecents="true"
+99-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:23:19-52
+100            android:exported="false"
+100-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:24:19-43
+101            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+101-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:22:19-78
+102        <!--
+103Service handling Google Sign-In user revocation. For apps that do not integrate with
+104            Google Sign-In, this service will never be started.
+105        -->
+106        <service
+106-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:28:9-31:110
+107            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+107-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:29:13-62
+108            android:exported="true"
+108-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:30:13-36
+109            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+109-->[com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:31:13-107
+110
+111        <provider
+111-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:28:7-31:37
+112            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+112-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:30:11-90
+113            android:authorities="com.inmobi.banner.sample.google_measurement_service"
+113-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:29:11-76
+114            android:exported="false" />
+114-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:31:11-35
+115
+116        <receiver
+116-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:33:7-39:18
+117            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+117-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:34:11-83
+118            android:enabled="true" >
+118-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:35:11-33
+119            <intent-filter>
+119-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:36:9-38:25
+120                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+120-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:37:11-77
+120-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:37:19-75
+121            </intent-filter>
+122        </receiver>
+123
+124        <service
+124-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:41:7-44:37
+125            android:name="com.google.android.gms.measurement.AppMeasurementService"
+125-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:42:11-82
+126            android:enabled="true"
+126-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:43:11-33
+127            android:exported="false" />
+127-->[com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:44:11-35
+128    </application>
+129
+130</manifest>

@@ -1,0 +1,2 @@
+# Referenced at /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/bannerSample/build/intermediates/merged_manifests/debug/AndroidManifest.xml:32
+-keep class android.support.multidex.MultiDexApplication { <init>(); }

@@ -1,0 +1,450 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:1:1-10:12
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/39f8716d6ceabc3024d7ad8e35b41adc/play-services-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/08bd83abaa2181dfc5c4ac618acc20fb/play-services-cast-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/44a19d6c286e3a807184544ccc3c6c21/mediarouter-v7-23.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f84a5824b18956c600bdc6b6ce8055dd/recyclerview-v7-24.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45acc9c70ccf14acc1da791f6e4a96d2/play-services-appindexing-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4c9ff225baf6b2ae3b4c2d37ddb4e407/play-services-appstate-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8f05d4909db88aa7a0015653ce48d932/play-services-games-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/fdec62f4aaf6809d118899cc4567cc96/play-services-drive-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/05a5b4d24ebeb906bdad9771d5a68169/play-services-fitness-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0e1ff1f8c341c985c285317050c3915f/play-services-wallet-8.4.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/513796bae70c472d0b84a04c41b8d1dd/play-services-identity-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e8e492153ec2c64786e802c4cb86da3c/play-services-location-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3e5ef8df3d260f7c46b88b951b77ea6/play-services-panorama-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/420cdf7a7a51e0dea3e6503f0bef8d69/play-services-plus-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45bb4bc1260cf92b92e2f8cbb79581a9/play-services-safetynet-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/28d789b00ab4156e494e60aac4808ea9/play-services-vision-8.4.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4f7242ecd56c2809c75511e429c3d1e5/play-services-wearable-8.4.0/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/25396e1f0f113b946268763fe427daad/play-services-base-8.4.0/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:17:1-27:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:4:11-51
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:6:5-66
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:6:5-67
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:7:5-78
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:4:5-79
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:4:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.READ_CALENDAR
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:13:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:14:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:15:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:16:5-74
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:5:5-75
+MERGED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:16:22-72
+application
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:18:5-54:19
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/39f8716d6ceabc3024d7ad8e35b41adc/play-services-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/39f8716d6ceabc3024d7ad8e35b41adc/play-services-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/08bd83abaa2181dfc5c4ac618acc20fb/play-services-cast-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/08bd83abaa2181dfc5c4ac618acc20fb/play-services-cast-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/44a19d6c286e3a807184544ccc3c6c21/mediarouter-v7-23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/44a19d6c286e3a807184544ccc3c6c21/mediarouter-v7-23.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45acc9c70ccf14acc1da791f6e4a96d2/play-services-appindexing-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45acc9c70ccf14acc1da791f6e4a96d2/play-services-appindexing-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4c9ff225baf6b2ae3b4c2d37ddb4e407/play-services-appstate-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4c9ff225baf6b2ae3b4c2d37ddb4e407/play-services-appstate-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8f05d4909db88aa7a0015653ce48d932/play-services-games-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8f05d4909db88aa7a0015653ce48d932/play-services-games-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/fdec62f4aaf6809d118899cc4567cc96/play-services-drive-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/fdec62f4aaf6809d118899cc4567cc96/play-services-drive-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/05a5b4d24ebeb906bdad9771d5a68169/play-services-fitness-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/05a5b4d24ebeb906bdad9771d5a68169/play-services-fitness-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/513796bae70c472d0b84a04c41b8d1dd/play-services-identity-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/513796bae70c472d0b84a04c41b8d1dd/play-services-identity-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e8e492153ec2c64786e802c4cb86da3c/play-services-location-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e8e492153ec2c64786e802c4cb86da3c/play-services-location-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3e5ef8df3d260f7c46b88b951b77ea6/play-services-panorama-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3e5ef8df3d260f7c46b88b951b77ea6/play-services-panorama-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/420cdf7a7a51e0dea3e6503f0bef8d69/play-services-plus-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/420cdf7a7a51e0dea3e6503f0bef8d69/play-services-plus-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45bb4bc1260cf92b92e2f8cbb79581a9/play-services-safetynet-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45bb4bc1260cf92b92e2f8cbb79581a9/play-services-safetynet-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/28d789b00ab4156e494e60aac4808ea9/play-services-vision-8.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/28d789b00ab4156e494e60aac4808ea9/play-services-vision-8.4.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4f7242ecd56c2809c75511e429c3d1e5/play-services-wearable-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4f7242ecd56c2809c75511e429c3d1e5/play-services-wearable-8.4.0/AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:21:13-45
+	android:icon
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:20:13-42
+	android:allowBackup
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:19:13-39
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:23:13-44
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:22:13-72
+activity#com.inmobi.interstitial.sample.InterstitialAdsActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:26:9-36:20
+	android:screenOrientation
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:31:17-53
+	android:label
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:28:17-49
+	tools:ignore
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:29:17-47
+	android:configChanges
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:30:17-119
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:27:17-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:34:27-74
+activity#com.inmobi.rendering.InMobiAdActivity
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:38:9-44:49
+	android:hardwareAccelerated
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:42:17-51
+	android:resizeableActivity
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:41:17-51
+	tools:ignore
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:44:17-47
+	android:configChanges
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:40:17-119
+	android:theme
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:43:17-64
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:39:17-69
+service#com.inmobi.ads.ApkDownloader$ApkDownloadService
+ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:46:9-48:37
+	android:enabled
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:48:13-35
+	android:name
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:47:13-75
+uses-sdk
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/492c8afde6d1b0ab6e2a00f4a029bd12/design-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/39f8716d6ceabc3024d7ad8e35b41adc/play-services-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/39f8716d6ceabc3024d7ad8e35b41adc/play-services-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/08bd83abaa2181dfc5c4ac618acc20fb/play-services-cast-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/08bd83abaa2181dfc5c4ac618acc20fb/play-services-cast-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/44a19d6c286e3a807184544ccc3c6c21/mediarouter-v7-23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/44a19d6c286e3a807184544ccc3c6c21/mediarouter-v7-23.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f84a5824b18956c600bdc6b6ce8055dd/recyclerview-v7-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f84a5824b18956c600bdc6b6ce8055dd/recyclerview-v7-24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/5d48e51bc97ba8657eabe5d8ea43411b/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/c353d51e9650dcf8a252cc3e677bb91c/play-services-analytics-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45acc9c70ccf14acc1da791f6e4a96d2/play-services-appindexing-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45acc9c70ccf14acc1da791f6e4a96d2/play-services-appindexing-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4c9ff225baf6b2ae3b4c2d37ddb4e407/play-services-appstate-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4c9ff225baf6b2ae3b4c2d37ddb4e407/play-services-appstate-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8f05d4909db88aa7a0015653ce48d932/play-services-games-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8f05d4909db88aa7a0015653ce48d932/play-services-games-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/fdec62f4aaf6809d118899cc4567cc96/play-services-drive-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/fdec62f4aaf6809d118899cc4567cc96/play-services-drive-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/05a5b4d24ebeb906bdad9771d5a68169/play-services-fitness-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/05a5b4d24ebeb906bdad9771d5a68169/play-services-fitness-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0e1ff1f8c341c985c285317050c3915f/play-services-wallet-8.4.0/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0e1ff1f8c341c985c285317050c3915f/play-services-wallet-8.4.0/AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/513796bae70c472d0b84a04c41b8d1dd/play-services-identity-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/513796bae70c472d0b84a04c41b8d1dd/play-services-identity-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e8e492153ec2c64786e802c4cb86da3c/play-services-location-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e8e492153ec2c64786e802c4cb86da3c/play-services-location-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/305c618fe62b90fc1d42446acc64b345/play-services-nearby-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3e5ef8df3d260f7c46b88b951b77ea6/play-services-panorama-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3e5ef8df3d260f7c46b88b951b77ea6/play-services-panorama-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/420cdf7a7a51e0dea3e6503f0bef8d69/play-services-plus-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/420cdf7a7a51e0dea3e6503f0bef8d69/play-services-plus-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45bb4bc1260cf92b92e2f8cbb79581a9/play-services-safetynet-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/45bb4bc1260cf92b92e2f8cbb79581a9/play-services-safetynet-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/28d789b00ab4156e494e60aac4808ea9/play-services-vision-8.4.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/28d789b00ab4156e494e60aac4808ea9/play-services-vision-8.4.0/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4f7242ecd56c2809c75511e429c3d1e5/play-services-wearable-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/4f7242ecd56c2809c75511e429c3d1e5/play-services-wearable-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/25396e1f0f113b946268763fe427daad/play-services-base-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/25396e1f0f113b946268763fe427daad/play-services-base-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/e3d22141ff6accbae1e99301ef6b3deb/support-v4-24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/d5ab0dccd33c018c8ffdf7e0ccab788b/animated-vector-drawable-24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/3ecca7d33797352a7f0860be42c3b356/support-vector-drawable-24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/0d61bb530d75eb5b3b5a21f342cecc9b/support-fragment-24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7aed8a724c30eda1f3224ec4dba56512/support-core-ui-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/732502907eb70cc475366b2493cdc124/support-media-compat-24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/393f1df6f2058747f53bf6cfc22820d6/support-core-utils-24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/474b7f8920b322e2e6085bc9965e6e06/support-compat-24.2.1/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8138a8ad0988c5b808cd9efc7a2dbbe5/appcompat-v7-24.2.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		ADDED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+		INJECTED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml
+uses-permission#com.asus.msa.SupplementaryDID.ACCESS
+ADDED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from [msa_mdid_1.0.13.aar] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8caa872a017299527f47feddd66e52c8/msa_mdid_1.0.13/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/inmobi-hackett/android_demo/InMobiNativeRebootAdroid/interstitialSample/src/main/AndroidManifest.xml:2:1-56:12 reason: com.bun.miitmdid requested WRITE_EXTERNAL_STORAGE
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/8872f7144ebe50951285ed593db1a5b3/play-services-ads-8.4.0/AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/01bf0673f98809874478576b3c52f621/play-services-appinvite-8.4.0/AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/7ebae8fafce5158bd874f6b3c1fd47c9/play-services-auth-8.4.0/AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/26f6f1d265682536505179ecaee47c9b/play-services-gcm-8.4.0/AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/248757bf39ffd7c625e7ae1b96b2824a/play-services-maps-8.4.0/AndroidManifest.xml:24:8-31
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:24:22-65
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:34:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/f30065b48e849f554c9da83fe2304891/play-services-measurement-8.4.0/AndroidManifest.xml:42:11-82
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:8.4.0] /Users/inmobi-hackett/.gradle/caches/transforms-2/files-2.1/266af2583c7c7d9e87f662a5553c15cc/play-services-basement-8.4.0/AndroidManifest.xml:22:13-58
